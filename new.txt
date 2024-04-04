@@ -1,2 +1,3 @@
 # new.txt
 <hr>
+-*Some text at the end*-
